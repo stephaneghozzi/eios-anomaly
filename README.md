@@ -10,7 +10,7 @@ Two Jupyter notebooks (Python 3) were used:
 
 The template [nbconvert_template_altair.tpl](nbconvert_template_altair.tpl) allows the displaying of interactive plots produced with Altair in the notebooks.
 
-Approach, results and perspectives are presented in eios_anomaly-seoul-20191113.pdf, the slides of a talk held at the [2019 EOIS Global Technical Meeting](https://www.who.int/eios/global-technical-meeting-2019).
+Approach, results and perspectives are presented in [eios_anomaly-seoul-20191113.pdf](eios_anomaly-seoul-20191113.pdf), the slides of a talk held at the [2019 EOIS Global Technical Meeting](https://www.who.int/eios/global-technical-meeting-2019).
 
 ## Data
 
